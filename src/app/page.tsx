@@ -7,7 +7,7 @@ import {
   TableHeader,
   TableRow,
 } from "@/components/ui/table"
-import { MoreVertical, Star } from "lucide-react";
+import { MoreVertical } from "lucide-react";
 import Image from "next/image";
 
 export default function Home() {
